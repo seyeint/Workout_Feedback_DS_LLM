@@ -1,0 +1,11 @@
+duckdb==0.10.0
+jupyter_client==8.6.0
+jupyter_core==5.7.1
+numpy==1.24.2
+openai==0.28.0
+pandas==1.5.3
+pydantic==2.5.3
+pydantic-settings==2.1.0
+pyarrow==14.0.2
+SQLAlchemy==1.4.46
+typer==0.9.0
